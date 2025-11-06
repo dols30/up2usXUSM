@@ -606,7 +606,7 @@ export default function UpToUsWebsite() {
               </li>
             </ul>
             <a 
-              href="https://www.linkedin.com/in/usm-up2us-drb-5a3766395/" 
+              href="https://www.linkedin.com/company/up2us-usm-drb/" 
               target="_blank" 
               rel="noopener noreferrer"
               className="inline-block bg-blue-600 hover:bg-blue-700 text-white px-6 py-3 rounded-lg font-semibold transition-all"
@@ -640,7 +640,7 @@ export default function UpToUsWebsite() {
               </li>
             </ul>
             <a 
-              href="https://www.linkedin.com/in/usm-up2us-drb-5a3766395/" 
+              href="https://www.linkedin.com/company/up2us-usm-drb/" 
               target="_blank" 
               rel="noopener noreferrer"
               className="inline-block bg-red-500 hover:bg-red-600 text-white px-6 py-3 rounded-lg font-semibold transition-all"
@@ -658,7 +658,7 @@ export default function UpToUsWebsite() {
           </p>
           <div className="flex flex-wrap gap-4">
             <a 
-              href="https://www.linkedin.com/in/usm-up2us-drb-5a3766395/" 
+              href="https://www.linkedin.com/company/up2us-usm-drb/" 
               target="_blank" 
               rel="noopener noreferrer"
               className="flex items-center bg-blue-600 hover:bg-blue-700 text-white px-6 py-3 rounded-lg font-semibold transition-all"
@@ -669,7 +669,7 @@ export default function UpToUsWebsite() {
           </div>
           <div className="mt-6 p-4 bg-white rounded-lg border-2 border-dashed border-gray-300">
             <p className="text-gray-700 font-semibold mb-2">Our Handle:</p>
-            <p className="text-gray-600">LinkedIn: <a href="https://www.linkedin.com/in/usm-up2us-drb-5a3766395/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">usm-up2us-drb</a></p>
+            <p className="text-gray-600">LinkedIn: <a href="https://www.linkedin.com/company/up2us-usm-drb/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">UP2US_USM</a></p>
             <p className="text-sm text-gray-500 mt-3">Use hashtags: #UptoUs #OurFiscalFuture</p>
           </div>
         </div>
@@ -773,7 +773,7 @@ export default function UpToUsWebsite() {
               <h3 className="text-xl font-bold mb-4">Connect With Us</h3>
               <div className="flex space-x-4 mb-4">
                 <a 
-                  href="https://www.linkedin.com/in/usm-up2us-drb-5a3766395/" 
+                  href="https://www.linkedin.com/company/up2us-usm-drb/" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="hover:text-blue-500 transition-colors"
